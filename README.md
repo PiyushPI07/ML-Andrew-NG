@@ -1,2 +1,2 @@
 # ML-Andrew-NG
-My code for andrew ng course coursera
+My code and implementatons for weekly assignments on andrew ng course,coursera.
